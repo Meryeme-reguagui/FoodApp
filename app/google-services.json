@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626799413760",
+    "project_id": "foodapp-e131e",
+    "storage_bucket": "foodapp-e131e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626799413760:android:702794afbda3f89b6266e5",
+        "android_client_info": {
+          "package_name": "com.ensaf.foodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDETinSbctXfVoxREHsVKStIvzJTXdHRwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
